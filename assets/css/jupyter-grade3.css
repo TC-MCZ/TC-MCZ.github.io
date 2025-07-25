@@ -3149,7 +3149,7 @@ span.shortcut_key {
   display: inline-block;
   width: 16ex;
   text-align: right;
-  font-family: monospace;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
 
 .jupyter-keybindings {

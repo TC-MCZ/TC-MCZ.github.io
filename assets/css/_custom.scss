@@ -3,3 +3,10 @@
   font-style: italic;
   color: #4e9ad4; // 可选颜色
 }
+
+.selected-heading {
+  font-weight: bold;
+  font-style: italic;
+  text-decoration: underline;
+  color: inherit;
+}
