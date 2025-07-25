@@ -6,7 +6,7 @@ subtitle: <a href='https://linke.ustc.edu.cn/main.htm'>LINKE</a>. University of 
 
 profile:
   align: right
-  image: cz_1.png
+  image: cz_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Xinzhi Building B803</p>
@@ -24,6 +24,6 @@ announcements:
 
 #### Welcome to Chengzhen Meng’s Homepage! 👋
 
-I am currently a final-year PhD student under the supervision of Professor [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/) at the University of Science and Technology of China (USTC), expecting to graduate in 2026. Prior to my doctoral studies, I earned a Bachelor’s degree in Computer Science and Technology from Northwestern Polytechnical University in 2021. My research primarily focuses on mmWave sensing, radar–camera fusion, LiDAR–camera automatic calibration, SLAM, and robust place recognition.
+I am a final-year Ph.D. candidate at the University of Science and Technology of China (USTC), supervised by Professor [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/), and expect to graduate in 2026. Before that, I received my Bachelor's degree in Computer Science and Technology from Northwestern Polytechnical University in 2021. My research interests include mmWave sensing, radar–camera fusion, and UAV tracking.
 
-I’m a sporty and energetic guy who enjoys staying active. Table tennis and badminton are my favorite pastimes—I love the excitement, speed, and rhythm they bring.
+I'm full of energy and love staying active. Table tennis and badminton are my favorites—I enjoy their fast pace and the fun they bring.

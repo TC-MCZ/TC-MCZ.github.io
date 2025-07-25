@@ -4,9 +4,33 @@
   color: #4e9ad4; // 可选颜色
 }
 
+// .selected-heading {
+//   font-weight: bold;
+//   font-style: italic;
+//   text-decoration: underline;
+//   color: inherit;
+// }
+
 .selected-heading {
+  // font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   font-weight: bold;
-  font-style: italic;
-  text-decoration: underline;
+  // font-style: italic;
+  // text-decoration: underline;
   color: inherit;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li,
+span,
+a,
+table,
+blockquote {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }

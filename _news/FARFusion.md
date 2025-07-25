@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-FARFusion was accpeted by RAL 2024! 😊 ✨
+FARFusion was accpeted by RA-L 2024! 😊 ✨

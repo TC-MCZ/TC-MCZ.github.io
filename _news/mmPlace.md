@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-mmPlace was accpeted by RAL 2024! 😊 ✨
+mmPlace was accpeted by RA-L 2024! 😊 ✨
