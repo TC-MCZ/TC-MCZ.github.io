@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ghost Points Matter was accpeted by MobiCom 2025! 😊 ✨
+Our paper <span class="highlight-blue ">Ghost Points Matter </span> was accpeted by MobiCom 2025! 😊 ✨

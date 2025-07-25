@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Calibformer was accpeted by ICRA 2024! 😊 ✨
+Our paper <span class="highlight-blue ">Calibformer </span> was accpeted by ICRA 2024! 😊 ✨

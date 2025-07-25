@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-GR-Fall was accpeted by UbiComp 2025! 😊 ✨
+Our paper <span class="highlight-blue ">GR-Fall </span> was accpeted by UbiComp 2025! 😊 ✨

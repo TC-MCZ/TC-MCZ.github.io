@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-FARFusion was accpeted by RA-L 2024! 😊 ✨
+Our paper <span class="highlight-blue ">FARFusion</span> was accpeted by RA-L 2024! 😊 ✨

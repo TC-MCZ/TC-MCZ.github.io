@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-See Through Vehicles was accpeted by MobiCom 2024! 😊 ✨
+Our paper <span class="highlight-blue ">See Through Vehicles </span> was accpeted by MobiCom 2024! 😊 ✨

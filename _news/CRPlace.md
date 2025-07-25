@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-CRPlace was accpeted by IROS 2024! 😊 ✨
+Our paper <span class="highlight-blue ">CRPlace </span> was accpeted by IROS 2024! 😊 ✨

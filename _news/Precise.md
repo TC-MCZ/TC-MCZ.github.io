@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Precise UAV MMW-Vision Positioning was accpeted by JSAC 2024! 😊 ✨
+Our paper <span class="highlight-blue ">Precise UAV MMW-Vision Positioning </span> was accpeted by JSAC 2024! 😊 ✨
