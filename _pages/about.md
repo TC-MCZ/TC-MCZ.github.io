@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Xinzhi Building B803</p>
-    <p>No.100 Fuxing Road</p>
+    <p>No.100 Fuxing Road,</p>
     <p>Hefei, Anhui</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
