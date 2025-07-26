@@ -22,7 +22,7 @@ announcements:
   limit: # leave blank to include all the news in the `_news` folder
 ---
 
-#### Welcome to Chengzhen Meng’s Homepage! 👋
+#### Welcome to Chengzhen’s Homepage! 👋
 
 I am a final-year Ph.D. candidate at the University of Science and Technology of China (USTC), supervised by Professor [Yanyong Zhang](http://staff.ustc.edu.cn/~yanyongz/), and expect to graduate in 2026. Before that, I received my Bachelor's degree in Computer Science and Technology from Northwestern Polytechnical University in 2021. My research interests include mmWave sensing, radar–camera fusion, and UAV tracking.
 
